@@ -4,13 +4,8 @@
 	"thumbnail":"https://www.dropbox.com/s/znbssto0jqby1f7/thb.jpg?dl=1",
 	"menu":[
 		{
-			"title":"RELOAD",
-			"link":"https://www.dropbox.com/s/dtqg3fwcn0b7eq3/comunity.json?dl=1",
-			"thumbnail":"https://www.dropbox.com/s/opf8dk2sbyo4vvz/NuvolaBlu.jpg?dl=1"
-		},
-		{
 			"title":"ENTRA",
-			"link":"https://www.dropbox.com/s/mhhjcd6zz4ip8ao/menu.json?dl=1",
+			"link":"https://testphp765.herokuapp.com/kod/community.php",
 			"thumbnail":"https://www.dropbox.com/s/opf8dk2sbyo4vvz/NuvolaBlu.jpg?dl=1"
 		}
 	]
